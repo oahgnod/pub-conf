@@ -1,4 +1,4 @@
-palyload:
+payload:
   # tmplink
   - DOMAIN,*.tmp.link
   - DOMAIN,*.vx-cdn.com
