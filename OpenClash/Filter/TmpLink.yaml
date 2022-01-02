@@ -1,5 +1,5 @@
 payload:
   # tmplink
-  - DOMAIN-SUFFIX,*.tmp.link
-  - DOMAIN-SUFFIX,*.vx-cdn.com
-  - DOMAIN-SUFFIX,*.vxtrans.com
+  - DOMAIN-SUFFIX,tmp.link
+  - DOMAIN-SUFFIX,vx-cdn.com
+  - DOMAIN-SUFFIX,vxtrans.com
